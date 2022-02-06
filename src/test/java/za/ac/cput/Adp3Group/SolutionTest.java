@@ -1,3 +1,10 @@
+/**
+ * SolutionTest.java
+ * This is a class for TDD solution testing
+ * Author Martinez safari 219325332
+ * 06 Feb 2022
+ */
+
 package za.ac.cput.Adp3Group;
 
 import org.junit.Test;
@@ -43,7 +50,7 @@ public class SolutionTest {
     //Testing for timeouts
     @Test(timeout = 1000)
     public void testTimeOuts(){
-        assertEquals(num2, num3);
+        assertEquals(num1, num3);
 
     }
 

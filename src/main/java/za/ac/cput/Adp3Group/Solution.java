@@ -1,3 +1,11 @@
+/**
+ * Solution.java
+ * This is a model
+ * Author Martinez safari 219325332
+ * 06 Feb 2022
+ */
+
+
 package za.ac.cput.Adp3Group;
 
 public class Solution {
